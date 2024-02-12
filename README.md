@@ -1,4 +1,4 @@
-# HelloID-Task-SA-Source-ExchangeOnPremises-MailboxGetSendAsPermissions
+# HelloID-Task-SA-Source-ExchangeOnPremises-MailboxGetSendOnBehalfPermissions
 
 ## Prerequisites
 - [ ] Execute the cmdlet **Enable-PsRemoting** on the **Exchange server** to which you want to connect.
